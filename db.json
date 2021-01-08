@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Товар №1",
+      "price": 121,
+      "article": 142
+    },
+    {
+      "image": "2.jpg",
+      "name": "Товар №2",
+      "price": 421,
+      "article": 432
+    },
+    {
+      "image": "3.jpg",
+      "name": "Товар №3",
+      "price": 483,
+      "article": 563
+    },
+    {
+      "image": "4.jpg",
+      "name": "Товар №4",
+      "price": 974,
+      "article": 233
+    }
+  ]
+}

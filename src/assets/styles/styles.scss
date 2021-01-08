@@ -1,0 +1,8 @@
+@import "variables";
+
+.btn {
+  padding: $padding $padding*2;
+  background: #28b862;
+  color: #ffffff;
+  border-radius: $radius;
+}
